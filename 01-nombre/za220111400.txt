@@ -1,0 +1,4 @@
+Nombre: Carlos Santiago Ramirez Sandoval 
+No. Contro: 220111400
+Lenguaje de programación: C
+
